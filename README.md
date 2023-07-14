@@ -1,4 +1,7 @@
 # Wifi-Locationing
+
+This is a test
+
 Predicting the longitude and latitude of a location based on WIFI connection strengths.
 
 I start using a classification model to predict the Building ID and Floor ID based on the strength of 520 WAP (Wifi Access Points). 
